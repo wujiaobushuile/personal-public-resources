@@ -1,0 +1,6 @@
+# Temporary Office and operating system files
+~$*
+*.tmp
+.DS_Store
+Thumbs.db
+Desktop.ini
